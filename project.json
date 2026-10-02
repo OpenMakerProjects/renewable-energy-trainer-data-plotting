@@ -1,0 +1,21 @@
+{
+  "id": 1456,
+  "title": "Renewable Energy Trainer Data Plotting",
+  "repository_slug": "renewable-energy-trainer-data-plotting",
+  "category": "Education",
+  "platform": "Arduino Uno",
+  "platform_family": "arduino",
+  "difficulty": "Beginner",
+  "estimated_hours": 16,
+  "connectivity": "USB serial",
+  "components": [
+    "breadboard",
+    "OLED display",
+    "RGB LEDs"
+  ],
+  "scope": "Build a education prototype that uses breadboard, OLED display, RGB LEDs to plot measurements for analysis. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Data Plotting demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "firmware/renewable-energy-trainer-data-plotting/renewable-energy-trainer-data-plotting.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
